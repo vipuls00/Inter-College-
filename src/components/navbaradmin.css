@@ -1,0 +1,52 @@
+.btn {
+    background-color: black;
+    color: aliceblue;
+    border-color: aliceblue;
+}
+
+.btn:hover {
+    background-color: rgb(237, 231, 231);
+    color: rgb(29, 27, 27);
+}
+
+.navbar {
+    height: max-content;
+    background-color: white;
+}
+
+.navbar {
+    /* background: transparent; */
+     /* height: max-content;  */
+    height: 80px;
+    justify-content: center;
+    font: size 1.2rem;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    font-size: 1.2rem;
+
+     /* background-color: black;*/
+} 
+.navbara {
+    /* background: transparent; */
+    background-color: #fff;
+     height: max-content; 
+    height: 80px;
+    justify-content: center;
+    font: size 1.2rem;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    font-size: 1.2rem;
+
+     /* background-color: black;*/
+} 
+
+.navbar.active {
+    /* background: linear-gradient(90deg, rgb(66, 2, 194)0%, rgb(0, 79, 194)100%); */
+background-color: #fff;
+}

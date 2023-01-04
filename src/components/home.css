@@ -1,0 +1,24 @@
+
+.container  {
+   margin-top: 11%;
+}
+.card-header{
+    background-color: rgb(247, 14, 14);
+}
+h5{
+    text-align: center;
+}
+i{
+    size: large;
+}
+.card-header{
+    text-align: center;
+    background-color:dimgray;
+}
+
+
+.col-md-4:hover{
+    background-color:darkgrey;
+    color: black;
+    border-radius: 10px;
+}

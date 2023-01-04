@@ -1,0 +1,11 @@
+/* .container{
+    align-items: center;
+    justify-content: center;
+} */
+.row{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.register {
+   margin-right: 20px;
+}

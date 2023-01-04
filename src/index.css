@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100&family=Ubuntu:ital,wght@0,300;0,400;1,300&family=Varela+Round&display=swap');
+body {
+  margin: 0;
+  font-family: 'Ubuntu', sans-serif;
+   
+}
+ .btn{
+   margin: 5px;
+ }
